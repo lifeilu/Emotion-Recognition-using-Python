@@ -1,13 +1,13 @@
 # Emotion-Recognition-using-Python
 链接复制于https://github.com/NarendrenSaravanan/Emotion-Recognition-using-Python
 
-cd Emotion-Recognition-using-Python/
-运行步骤如下
-virtualenv env   创建虚拟环境
+cd Emotion-Recognition-using-Python/ \n
+运行步骤如下\n
+virtualenv env   创建虚拟环境\n
 
-brew tap homebrew/science
-brew install opencv  安装opencv
-安装完成之后，按照提示进行以下两个命令
+brew tap homebrew/science\n
+brew install opencv  安装opencv\n
+安装完成之后，按照提示进行以下两个命令\n
 mkdir -p /Users/lulifei/Library/Python/2.7/lib/python/site-packages
 echo 'import site; site.addsitedir("/usr/local/lib/python2.7/site-packages")' >> /Users/lulifei/Library/Python/2.7/lib/python/site-packages/homebrew.pth
 完成上面的操作之后命令行输入python，输入以下命令，验证是否安装成功
