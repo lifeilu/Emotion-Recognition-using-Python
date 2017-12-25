@@ -1,5 +1,5 @@
 # Emotion-Recognition-using-Python
-## 链接复制于https://github.com/NarendrenSaravanan/Emotion-Recognition-using-Python
+## 链接复制于[Emotion-Recognition-using-Python](https://github.com/NarendrenSaravanan/Emotion-Recognition-using-Python),参考[这个网址](https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/)。
 ````
 cd Emotion-Recognition-using-Python/
 ````
